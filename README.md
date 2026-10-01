@@ -4,7 +4,7 @@
 
 ## 一、创建 D1 数据库
 
-1. 登录 https://dash.cloudflare.com/，选择你的账户。
+1. 登录 https://dash.cloudflare.com/
 2. 在侧栏找到 **Storage & databases → D1 SQL Database**（中文界面名称可能不同）。
 3. 点击创建数据库，名称例如 `short-commands`，创建完成。
 4. 不用手动建表，第一次访问管理 API 时程序会自动建表。
