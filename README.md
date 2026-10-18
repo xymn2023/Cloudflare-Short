@@ -1,4 +1,4 @@
-# 短链接 · Cloudflare 网页部署版
+# 短命令 · Cloudflare 网页部署版
 
 <img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/86e5c46f-c2b8-4b8a-9deb-28f4db7ce988" />
 
