@@ -1,6 +1,8 @@
 # 短链接 · Cloudflare 网页部署版
 
+<img width="1908" height="882" alt="image" src="https://github.com/user-attachments/assets/86e5c46f-c2b8-4b8a-9deb-28f4db7ce988" />
 
+<img width="717" height="665" alt="image" src="https://github.com/user-attachments/assets/f4ef3bd7-6a1d-477f-ae29-1e0de57f3ad7" />
 
 ## 一、创建 D1 数据库
 
